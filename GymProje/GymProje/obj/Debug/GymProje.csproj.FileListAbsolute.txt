@@ -1,0 +1,17 @@
+C:\Users\ibrahim\source\repos\GymProje\GymProje\bin\Debug\GymProje.exe.config
+C:\Users\ibrahim\source\repos\GymProje\GymProje\bin\Debug\GymProje.exe
+C:\Users\ibrahim\source\repos\GymProje\GymProje\bin\Debug\GymProje.pdb
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.csproj.AssemblyReference.cache
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.Form1.resources
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.Properties.Resources.resources
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.csproj.GenerateResource.cache
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.exe
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.pdb
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.YeniKullanici.resources
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.YeniPersonelMenu.resources
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.Ekipman.resources
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.EkipmanKontrol.resources
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.ÜyeBul.resources
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.ÜyeSil.resources
+C:\Users\ibrahim\source\repos\GymProje\GymProje\obj\Debug\GymProje.Giriş.resources

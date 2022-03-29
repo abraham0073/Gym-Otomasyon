@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymProje", "GymProje\GymProje.csproj", "{0B5E3ED5-77E0-451A-B32A-129E310D4C02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dbGYM", "dbGYM", "{C3D7E2FF-1951-48E2-9140-BDCA18E2BC16}"
+	ProjectSection(SolutionItems) = preProject
+		SqlQuery_1.sql = SqlQuery_1.sql
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupFitness", "..\..\..\Desktop\SetupFitness\SetupFitness\SetupFitness.vdproj", "{C7926256-600D-4A1C-82C8-9E90ED7B3CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B5E3ED5-77E0-451A-B32A-129E310D4C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5E3ED5-77E0-451A-B32A-129E310D4C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5E3ED5-77E0-451A-B32A-129E310D4C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5E3ED5-77E0-451A-B32A-129E310D4C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7926256-600D-4A1C-82C8-9E90ED7B3CEB}.Debug|Any CPU.ActiveCfg = Debug
+		{C7926256-600D-4A1C-82C8-9E90ED7B3CEB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2195BC4D-FFF7-436F-82B5-4D89507BD44B}
+	EndGlobalSection
+EndGlobal
